@@ -26,7 +26,7 @@ class Facebook extends BaseFacebook
   /**
    * Cookie prefix
    */
-  const FBSS_COOKIE_NAME = 'fbss';
+  const FBSS_COOKIE_NAME = 'fbss MEXI AQUI';
 
   /**
    * We can set this to a high number because the main session
